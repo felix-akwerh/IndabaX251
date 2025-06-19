@@ -10,3 +10,4 @@ nervaluate==0.3.1
 spacy==3.8.7
 matplotlib
 tiktoken
+gensim
