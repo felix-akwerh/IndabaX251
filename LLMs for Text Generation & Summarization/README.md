@@ -2,6 +2,9 @@
 
 This repository contains materials for a comprehensive workshop on leveraging Large Language Models (LLMs) for text generation and summarization tasks.
 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CEr2JXy4VZhRLbJ-kPTJjYMTVlz7_1dP?usp=sharing)
+
 ---
 
 ## Overview
